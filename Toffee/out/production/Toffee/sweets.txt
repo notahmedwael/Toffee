@@ -1,0 +1,35 @@
+Katakito
+Chocolate
+Wafer covered with chocolate
+Corona
+15
+0
+Unit
+Kitkat
+Chocolate
+Wafer covered with chocolate
+Nestle
+20
+0
+Unit
+Oreo
+Biscuit
+Chocolate Biscuit filled with cream
+Oreo
+5
+0
+Unit
+Biskrem
+Biscuit
+Biscuit filled with chocolate
+Ulker
+5
+0
+Unit
+Toffee
+Candy
+Toffee candy with caramel syrup
+Zwany
+60
+0
+Kilo

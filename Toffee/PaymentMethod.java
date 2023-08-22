@@ -1,0 +1,1 @@
+public interface PaymentMethod { void processPayment(double total);}
